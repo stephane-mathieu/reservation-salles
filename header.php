@@ -27,7 +27,7 @@ require_once('libraries/autoload.php');
 <header>
         <nav class="navbar sticky-top navbar-expand-lg bg-dark">
             <div class="container">
-                <a class="navbar-brand text-white" href="#">Logo</a>
+                <a class="navbar-brand text-white">ResVer</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars"></i>
             </button>

@@ -32,7 +32,7 @@
                     <span class="h1 fw-bold mb-0">Sign Up</span>
                   </div>
 
-                  <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Sign into your account</h5>
+                  <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Sign Up</h5>
 
                   <div class="form-outline mb-4">
                     <input type="text" id="form2Example17"  name="login" class="form-control form-control-lg" />

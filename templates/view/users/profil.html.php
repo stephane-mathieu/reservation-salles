@@ -19,7 +19,7 @@
                         <h2 class=" card-text sous-titre">Profil de <?php echo $recuper[0] ?> </h2>
                     </div>
 
-                    <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Sign into your account</h5>
+                    <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Update your profil</h5>
 
                     <div class="form-outline mb-4">
                         <input type="text" id="form2Example17"  name="login" class="form-control form-control-lg" />
